@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @premmishra263
-- 👀 I’m interested in ..python , javascript , react, django .
-- 🌱 I’m currently learning REACT...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ..python , javascript , react, django, Java 
+- 🌱 I’m currently learning Generative AI ...
 - 📫 How to reach me premmishra263@gmail.com
 
 <!---
